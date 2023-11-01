@@ -1,2 +1,3 @@
 # bored-express-ejs-axios
-![image](https://github.com/rkapril/bored-express-ejs-axios/assets/61505106/5387a72e-c634-4e8a-a65a-e279a9eb3c13)
+![image](https://github.com/rkapril/bored-express-ejs-axios/assets/61505106/a30a98b7-89b0-4105-aeed-6f42e2ae1d91)
+
